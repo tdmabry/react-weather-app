@@ -34,7 +34,7 @@ function App() {
 
    // gets a weather forecast of 3 hour intervals
 
-      await axios.get(`http://api.openweathermap.org/data/2.5/forecast?lat=${lat}&lon=${lon}&cnt=8&units=imperial&appid=${process.env.REACT_APP_API_KEY}`)
+      await axios.get(`https://api.openweathermap.org/data/2.5/forecast?lat=${lat}&lon=${lon}&cnt=8&units=imperial&appid=${process.env.REACT_APP_API_KEY}`)
       .then((response) => {
         setForecast(response.data)
         console.log(response.data)
