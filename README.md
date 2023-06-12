@@ -22,3 +22,4 @@ npm start
 
 ## Usage
 In order to search for the Weather of a particular city, just type in the location in the format outlined in the API docs (City, State, Country) or (City, Country) if searching for a location outside of the US. Doing this should give you a result like this:
+![image](https://github.com/tdmabry/react-weather-app/assets/69427701/27ce395b-8515-46d5-adf4-3f14b424352f)
