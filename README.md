@@ -12,7 +12,8 @@ axios v1.3.5
 
 ## Installation
 
-Download the project from GitHub, navigate to the frontend directory, and use npm start to run the project in the local server http://localhost:3000.
+Download the project from GitHub, navigate to the frontend directory, and use npm start to run the project in the local server http://localhost:3000. Additionally, this app has been deployed to Netlify and can be accessed from this link:
+[Link to website](forecasted-weather.netlify.app)
 
 ```bash
 cd root
