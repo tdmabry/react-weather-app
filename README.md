@@ -12,7 +12,7 @@ axios v1.3.5
 
 ## Installation
 
-Download the project from GitHub, navigate to the frontend directory, and use npm start to run the project in the local server http://localhost:3000
+Download the project from GitHub, navigate to the frontend directory, and use npm start to run the project in the local server http://localhost:3000.
 
 ```bash
 cd root
